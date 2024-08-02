@@ -1,4 +1,4 @@
 ## ThreeJs Earth
 
-**_Demo_**
-![demo](demo.png)
+**_Preview_**
+![preview img](preview.png)
